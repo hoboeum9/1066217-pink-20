@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Олег Хлынин](https://up.htmlacademy.ru/adaptive/20/user/1066217).
-* Наставник: `Неизвестно`.
+* Наставник: `Николай Думчев`.
 
 ---
 
